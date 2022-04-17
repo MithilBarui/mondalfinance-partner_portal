@@ -28,7 +28,7 @@ li{
     padding-top: 12px;
 }
 .banner{
-    background-image: url(../image/partner-banner.jpg);
+    background-image: url(partner-banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
