@@ -58,7 +58,7 @@ li{
     padding-bottom: 200px;
 }
 .box-grid{
-    display: flex;   
+    display: flex;
 }
 .box{
     width: 220px;
@@ -90,10 +90,20 @@ li{
     right: 0;
     background-color: #080176;
     opacity: 0;
-   
-
 }
 .overlay:hover{
     opacity: 1;
     transition: all 2sec;
+}
+.backg{
+  background-color: #020a2e;
+}
+.backg .navbar-brand, .navbar-light .navbar-nav .nav-link{
+  color: #bbb;
+}
+.dropdown-menu{
+  background-color: #bbb;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(255 0 0);
 }
