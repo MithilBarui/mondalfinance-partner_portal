@@ -107,3 +107,13 @@ li{
 .navbar-light .navbar-nav .nav-link:hover {
     color: rgb(255 0 0);
 }
+.col-md-4, .col-md-5, .col-md-3{
+  padding: 0px;
+}
+.col-md-3{
+  background-color: #00b2ff;
+}
+marquee{
+  color: #fff;
+  padding: 14px 0;
+}
