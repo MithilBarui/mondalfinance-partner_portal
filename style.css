@@ -53,12 +53,14 @@ li{
     color:#fff;
     text-transform: capitalize;
     font-size: 90px;
+    padding-left: 100px;
 }
 .box-row{
     padding-bottom: 200px;
 }
 .box-grid{
     display: flex;
+    padding-left: 190px;
 }
 .box{
     width: 220px;
